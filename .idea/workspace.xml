@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="349ce49f-abb6-43e2-8ea9-e73dcaeab9c0" name="Default Changelist" comment="" />
+    <list default="true" id="349ce49f-abb6-43e2-8ea9-e73dcaeab9c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/components/CtaLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/components/__OOD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/documents/contactDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/documents/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/documents/fourzerofour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/documents/legal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/objects/qpLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/objects/qpPortableText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/objects/social.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deskStructure.js" beforeDir="false" afterPath="$PROJECT_DIR$/deskStructure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.7.4.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.7.4.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/schema.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +28,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UZBbNgXiAVtUetR0Gmq3bISXHJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,14 +40,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/schemas/documents" />
       <recent name="$PROJECT_DIR$/schemas/objects" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -54,7 +75,7 @@
       <updated>1575554307475</updated>
       <workItem from="1575554308861" duration="1699000" />
       <workItem from="1575556880751" duration="605000" />
-      <workItem from="1575624556307" duration="3814000" />
+      <workItem from="1575624556307" duration="8209000" />
     </task>
     <servers />
   </component>
@@ -62,9 +83,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2983" y="477" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575652776730">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2983" y="477" width="424" height="484" key="FileChooserDialogImpl/0.816.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1575652776730" />
     <state x="649" y="1196" key="com.intellij.ide.util.TipDialog" timestamp="1575562193697">
       <screen x="0" y="816" width="1920" height="1080" />
     </state>
     <state x="649" y="1196" key="com.intellij.ide.util.TipDialog/0.816.1920.1080/1920.0.2560.1440@0.816.1920.1080" timestamp="1575562193697" />
+    <state x="680" y="205" width="709" height="526" key="find.popup" timestamp="1575821078567">
+      <screen x="0" y="816" width="1920" height="1080" />
+    </state>
+    <state x="680" y="205" width="709" height="526" key="find.popup/0.816.1920.1080/1920.0.2560.1440@0.816.1920.1080" timestamp="1575821078567" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575821050801">
+      <screen x="0" y="816" width="1920" height="1080" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/0.816.1920.1080/1920.0.2560.1440@0.816.1920.1080" timestamp="1575821050801" />
   </component>
 </project>

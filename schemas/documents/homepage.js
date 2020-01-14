@@ -16,6 +16,12 @@ export default {
             type: 'string',
         },
         {
+            title: 'Overlay Text',
+            description: 'Slightly longer description shown on homepage',
+            name: 'overlayText2',
+            type: 'qpPortableText',
+        },
+        {
             title: 'Background Video (optional)',
             description: 'Full URL of a video on Vimeo. Leave blank to use fading images below instead.',
             name: 'backgroundVideoUrl',

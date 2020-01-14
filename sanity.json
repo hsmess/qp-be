@@ -12,7 +12,8 @@
     "@sanity/components",
     "@sanity/default-layout",
     "@sanity/default-login",
-    "@sanity/desk-tool"
+    "@sanity/desk-tool",
+    "hsmess-sanity-plugin-table"
   ],
   "parts": [
     {
@@ -25,5 +26,3 @@
     }
   ]
 }
-
-
