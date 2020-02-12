@@ -13,6 +13,11 @@ export default {
             title: 'Title',
             name: 'title',
             type: 'string',
-        }
+        },
+        {
+            name: 'content',
+            title: 'Content',
+            type: 'qpPortableText'
+        },
     ]
 }
